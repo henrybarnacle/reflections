@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Creates a new empty repository in the chosen directory. You do thsi so the commits have somewhere to be stored
