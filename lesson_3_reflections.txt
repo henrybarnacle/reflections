@@ -5,3 +5,15 @@ For collaborating with other developers.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 So that you know exactly what changes have been made.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks takes someone elses repositary and makes a copy of it in your own Github, cloning the fork allows you to put the repository on your own computer(local). Branches are different  sections of a repositary. A clone would allow you to work on something offline on your own system only whereas a fork would not.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that you can see conflicts of changes locally, without being online
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using group emails, it would be easier because everyone knows how to email, however it would also be much harder as it would be difficult to keep changes the same on everyones local system and making sure everyone was updated.

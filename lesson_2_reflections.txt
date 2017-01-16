@@ -5,3 +5,23 @@ Creates a new empty repository in the chosen directory. You do thsi so the commi
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 the staging area enables you to group changes togther beforecommiting them
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by viewing changes in staging area before committing them you can amke sure you are only commiting once per logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Perhaps if you wanted to make multiple versions of the same project, maybe one with less features or a simplified version as well as the full version.
+
+How do the diagrams help you visualize the branch structure?
+
+they make it easier to see the parent of a given commit and how the branches branch off and which commits will be unreachable from which branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It brings a seperate branch back in to the master branch. It's represented this way in the diagram to show when the branches diverged and merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging may save some time but doing it manually always will ensure you know exactly what is happening with each merge and which commits are being kept with the merge
